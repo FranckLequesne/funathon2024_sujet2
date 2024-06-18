@@ -1,5 +1,6 @@
 main_color <- "black"
 
+# test
 input_date <- shinyWidgets::airDatepickerInput(
   "date",
   label = "Mois choisi",
